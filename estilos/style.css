@@ -1,0 +1,619 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+
+html , body{
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+}
+
+header{
+    background-color: white;
+    padding: 10px;
+    width: 91%;
+    margin: auto;
+}
+
+header h1{
+    padding-top: 10px;
+    padding-bottom: 15px;
+    text-align: center;
+    font-size: 2em;
+}
+
+.nav-bar{
+     background-color: rgb(239, 201, 197);
+     border-radius: 15px 15px 0px 0px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     padding: 1rem 3rem;
+}
+
+.nav-list ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+}
+
+.nav-list a{
+    text-decoration: none;
+    font-size: 1.2em;
+    padding: 20px;
+    color: black;
+    
+    
+}
+
+.nav-list a:hover{
+   color: white;
+   transition: 2s;
+}
+
+.mobili-menu{
+    display: none;
+}
+
+.menu-icon{
+    display: none;
+}
+
+.salvador{
+    position: relative;
+    background-color: rgb(227, 123, 227);
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding: 70px;
+    height: 1100px;
+
+}
+
+.Rosa h2 {
+       position: absolute;
+       top: 3%;
+       left: 5%;
+       font-size: 2.7em;
+       color: white;
+       text-align: justify;
+}
+   
+.Rosa p{
+    position: absolute;
+    top: 19%;
+    left: 5%;
+    text-align: justify;
+    color: white;
+    width: 85%;
+    
+}
+
+.Rosa button{
+    position: absolute;
+    top: 34%;
+    left: 6%;
+    padding: 10px;
+    height: 40px;
+    font-size: 1.3em;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.Rosa button:hover{
+    background-color: brown;
+    transition: 2s;
+}
+
+
+.cardoso img{
+    display: block;
+    position: absolute;
+    left: 20%;
+    right: 25%;
+    top: 41%;
+    width: 300px;
+    
+}
+
+.nav-bar{
+    display: none;
+}
+
+main{
+    width: 100vw;
+    height: 100vh;
+}
+
+.Beth{
+    background-color: white;
+    width: 91%;
+    margin: auto;
+    padding: 100px 10px 120px;
+}
+
+.Beth h2{
+    text-align: center;
+    font-size: 1.7em;
+    margin-bottom: 50px;
+    
+}
+
+.pedro{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+   
+}
+
+.pedro div{
+    position: relative;
+    flex: 300px;
+    background-color: lightgrey;
+    height: 300px;
+    
+}
+
+.pedro img{
+   width: 100%;
+}
+
+.ana img{
+    position: absolute;
+    left: 35%;
+    top: 25%;
+    width: 110px;
+}
+
+.juli{
+    background-color: white;
+    width: 50px;
+    margin: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 1em;
+    border-radius: 50%;
+}
+
+.adi{
+    position: absolute;
+    top: 90%;
+    top: 85%;
+    padding: -10px;
+    margin-left: 15px;
+    margin-bottom: 5px;
+    font-size: 1.3em;
+}
+
+.ca{
+    position: absolute;
+    left: 75%;
+    top: 85%;
+    font-size: 1.3em;
+}
+
+.amor{
+    position: absolute;
+    left: 30%;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    height: 40px;
+    width: 200px;
+    text-align: center;
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 5px;
+    color: white;
+    font-size: 1.3em;
+    
+
+}
+
+.amor:hover{
+    background-color: white;
+    color: red;
+    border: 1px solid red;
+    transition: 2s;
+}
+
+.peixe{
+    position: relative;
+    background-color: rgb(128, 128, 234);
+    box-shadow: 2px 2px 2px 2px white;
+    border-radius: 20px;
+    width: 91%;
+    height: 665px;
+    margin: auto;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+.centro h2{
+     color: white;
+     margin-top: 30px;
+     margin-bottom: 20px;
+     font-size: 1.7em;
+}
+
+.centro p{
+    color: white;
+    font-size: 1.1em;
+    text-align: justify;
+}
+
+.silva{
+    margin-top: 30px;
+    padding: 10px;
+    height: 45px;
+    width: 150px;
+    font-size: 1em;
+    border: 1px solid rgb(173, 173, 225);
+    color: white;
+    background-color: rgb(47, 47, 223);
+}
+
+.silva:hover{
+    background-color: rgb(128, 128, 234);
+    border: 1px solid rgb(213, 200, 200);
+    color: white;
+    transition: 2s;
+}
+
+.Lu{
+    padding: 0px;
+    height: 45px;
+    width: 150px;
+    font-size: 1em;
+}
+
+.Lu:hover{
+    background-color: rgb(128, 128, 234);
+    border: 1px solid white;
+    transition: 2s;
+}
+
+.Adonis img{
+    position: absolute;
+    top: 55%;
+    height: 300px;
+    right: 15%;
+    width: 75%;
+    
+}
+
+.Miria{
+    width: 91%;
+    margin: auto;
+    
+}
+
+.Miria h2{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-size: 1.7em;
+}
+
+.Maria{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 91%;
+    margin: auto;
+}
+
+.Maria div{
+    position: relative;
+    flex: 300px;
+    background-color: lightgrey;
+    border-radius: 15px;
+    height: 200px;
+}
+
+.Miria h3{
+    position: absolute;
+    top: 40%;
+    left: 35%;
+}
+
+.Miria p{
+    position: absolute;
+     top: 53%;
+     left: 14%;
+}
+
+.victor{
+    position: relative;
+    background-color: blueviolet;
+    box-shadow: 2px 2px 2px 2px white;
+    border-radius: 20px;
+    width: 90%;
+    height: 180%;
+    margin: auto;
+    padding: 20px;
+    margin-top: 95px;
+}
+
+#Ana img{
+    position: absolute;
+    top: 10%;
+    left: 13%;
+    right: 20%;
+    margin-top: 30px;
+    width: 70%;
+    margin: auto;
+    
+}
+
+#salvador h2{
+    position: absolute;
+    top: 68%;
+    font-size: 1.7em;
+    color: white;
+    
+}
+
+#salvador p{
+    position: absolute;
+    top: 76%;
+    font-size: 1.3em;
+    color: white;
+    
+    
+}
+
+
+#marcia{
+     position: absolute;
+     margin-top: 1020px;
+     left: 15px;
+     height: 40px;
+     width: 130px;
+     background-color: white;
+}
+   
+
+#sara{
+    position: absolute;
+    margin-top: 1020px;
+    left: 150px;
+    height: 40px;
+    width: 130px;
+    background-color: rgb(192, 149, 232);
+    
+}
+
+#marcia:hover{
+    background-color: rgb(178, 123, 231);
+    border: 1px solid white;
+    transition: 1s;
+}
+
+#sara:hover{
+    background-color: blueviolet;
+    border: 1px solid white;
+    transition: 1s;
+}
+
+.Edi{
+   background-color: white; 
+   
+}
+
+.mapa{
+    margin: 0px -20px 30px -20px;
+    padding: 25px;
+    padding-bottom: 5%;
+    position: relative;
+
+}
+
+.mapa>iframe{
+    position: absolute;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    left: 10%;
+    box-shadow: 5px 5px 5px 5px white;
+    width: 430px;
+
+}
+
+.Edi h2{
+    text-align: center;
+    padding: 15px;
+    margin-top: 60px;
+    font-size: 2em;
+    
+}
+
+.formularios{
+    border-top-right-radius: 10px;
+    background-color: rgb(237, 221, 221);
+    position: absolute;
+    left: 10%;
+    margin-top: 450px;
+    width: 430px;
+    padding: 5px;
+}
+
+.campo{
+    padding: 10px;
+    
+}
+
+.campo> input{
+    height: 50px;
+    width: 100%;
+    padding: 20px;
+    font-size: 1.3em;
+}
+
+.campo> textarea{
+    text-align: center;
+    font-size: 1.3em;
+    width: 100%;
+    padding: 10px;
+    resize: none;
+}
+
+.rosario button{
+    position: relative;
+    left: 30%;
+    margin-top: 20px;
+    height: 40px;
+    width: 150px;
+    background-color: red;
+    border: 1px solid red;
+    font-size: 1.2em;
+    color: white;
+}
+
+.rosario button:hover{
+    background-color: rgb(237, 221, 221);
+    transition: 2s;
+    cursor: pointer;
+}
+
+.Mauro{
+     background-color: white;
+     width: 91%;
+     margin: auto;
+}
+
+.Mauro h2{
+    margin-top: 900px;
+    text-align: center;
+    font-size: 2em;
+    padding: 20px;
+}
+
+.jesus{
+    border: 30px solid white;
+    box-shadow: 5px 5px 5px 5px rgb(232, 222, 222);
+    background-color: white;
+    width: 90%;
+    height: 270px;
+    margin: auto;
+}
+
+.jesus h3{
+    color: red;
+    margin-bottom: 5px;
+    font-weight: bolder;
+    font-size: 1.5em;
+}
+
+.jesus h4{
+    color: darkred;
+    margin-bottom: 5px;
+}
+
+.jesus p{
+    text-align: justify;
+    text-indent: 20px;
+}
+
+.Avelino{
+    position: absolute;
+    margin-top: 6500px;
+    margin-left: 60px;
+    background-color: black;
+    padding: 20px;
+    width: 85%;
+    height: 900px;
+    
+
+    
+}
+
+.Avelino img{
+     position: relative;
+     left: 33%;
+     width: 30px;
+     border-radius: 50%;
+}
+
+.Avelino h2{
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+}
+
+.Avelino p{
+    margin: 15px;
+    font-size: 1.3em;
+    color: white;
+}
+
+.Gaspar >input{
+    margin-top: 15px;
+    margin-left: 18px;
+    width: 95%;
+    height: 35px;
+    padding: 5px;
+    font-size: 1.2em;
+    
+}
+
+
+
+
+#Gaspar button{
+    margin-left: 39%;
+    margin-top: 10px;
+    height: 35px;
+    width: 130px;
+    background-color: crimson;
+    color: white;
+
+}
+
+.Filomena> dl{
+    margin-top: 15px;
+    line-height: 1.4em;
+    color: white;
+    text-align: center;
+    
+
+}
+
+.Gaspar h3{
+    color: white;
+    text-align: center;
+    font-size: 1.3em;
+}
+
+.Filomena h3{
+    color: white;
+    text-align: center;
+    font-size: 1.3em;
+}
+
+
+
+@media screen and (min-width:320px) and (max-width:568px) {
+    .menu-icon{
+        position: absolute;
+        right: 5%;
+        top: 2%;
+        display: block;
+        
+    }
+
+    header h1{
+        text-align: left;
+    }
+
+
+}

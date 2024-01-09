@@ -1,0 +1,1221 @@
+@charset "UTF-8";
+
+@media screen and (min-width:760px) and (max-width:1000px) {
+
+    header{
+        background-color: white;
+        padding: 10px;
+        width: 88%;
+        margin: auto;
+    }
+
+    header h1{
+        text-align: left;
+    }
+        
+    .cardoso img{
+            position: absolute;
+            left: 54%;
+            top: 4%;
+            width: 270px;
+            
+        }  
+
+     .Rosa p{
+         position: absolute;
+         top: 37%;
+         left: 5%;
+         font-size: 1.1em;
+         text-align: justify;
+         color: white;
+         width: 50%;
+         
+     }
+
+     .Rosa h2 {
+        position: absolute;
+        top: 8%;
+        left: 5%;
+        font-size: 2.7em;
+        color: white;
+        text-align: justify;
+ }
+    
+     .Rosa button{
+        position: absolute;
+        top: 75%;
+        left: 5%;
+        padding: 10px;
+        height: 40px;
+        font-size: 1.3em;
+        background-color: red;
+        color: white;
+        border: none;
+        border-radius: 7px;
+        cursor: pointer;
+}
+
+.amor{
+    position: absolute;
+    left: 40%;
+    
+}
+
+.salvador{
+    position: relative;
+    background-color: rgb(227, 123, 227);
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    padding: 70px;
+    height: 610px;
+
+}
+
+.menu-icon{
+    position: absolute;
+    right: 7%;
+    top: 2%;
+    display: block;
+    
+}
+
+.silva{
+    margin-top: 30px;
+    padding: 10px;
+    height: 45px;
+    width: 175px;
+    font-size: 1em;
+    border: 1px solid rgb(173, 173, 225);
+    color: white;
+    background-color: rgb(47, 47, 223);
+}
+
+.Lu{
+    padding: 10px;
+    height: 45px;
+    width: 175px;
+    font-size: 1em;
+}
+
+.Adonis img{
+    position: absolute;
+    top: 43%;
+    height: 379px;
+    right: 3%;
+    width: 90%;
+    display: block;
+    
+}
+
+.Maria{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 90%;
+    margin: auto;
+}
+
+.Maria div{
+    position: relative;
+    flex: 300px;
+    background-color: lightgrey;
+    height: 200px;
+}
+
+.Miria h3{
+    position: absolute;
+    top: 45%;
+    left: 25%;
+}
+
+.Miria p{
+    position: absolute;
+     top: 55%;
+     left: 8%;
+     font-size: 1em;
+}
+
+#Nguina h3{
+    position: absolute;
+    left: 45%;
+}
+
+#Nguina p{
+    position: absolute;
+    left: 33%;
+    
+}
+
+.victor{
+    position: relative;
+    background-color: blueviolet;
+    border-radius: 20px;
+    height: 500px;
+    
+}
+
+#Ana img{
+    position: absolute;
+    top: 20%;
+    right: 80%;
+    width: 30%;
+    
+}
+
+#salvador h2{
+    top: 26%;
+    left: 45%;
+
+}
+
+#salvador p{
+    top: 40%;
+    left: 45%;
+    float: left;
+    width: 50%;
+}
+
+
+#marcia{
+    position: absolute;
+    margin-top: 420px;
+    left: 90px;
+    height: 40px;
+    width: 130px;
+    background-color: white;
+}
+  
+
+#sara{
+   position: absolute;
+   margin-top: 420px;
+   left: 225px;
+   height: 40px;
+   width: 130px;
+   background-color: rgb(192, 149, 232);
+   
+}
+
+
+
+.Edi{
+    position: relative;
+    width: 91%;
+    margin: auto;
+}
+
+.mapa{
+    margin: 0px -20px 30px -20px;
+    padding: 25px;
+    padding-bottom: 5%;
+    position: relative;
+
+}
+
+.mapa>iframe{
+    width: 40%;
+
+}
+
+.Edi h2{
+    text-align: center;
+    padding: 15px;
+    margin-top: 60px;
+    font-size: 1.5em;
+    
+}
+
+.formularios{
+    background-color: rgb(237, 221, 221);
+    position: absolute;
+    left: 50%;
+    margin-top: 1px;
+    width: 299px;
+    padding: 5px;
+}
+
+.campo{
+    padding: 10px;
+    
+}
+.campo> input{
+    height: 50px;
+    width: 100%;
+    padding: 20px;
+    font-size: 1.3em;
+}
+
+.campo> textarea{
+    text-align: center;
+    font-size: 1.3em;
+    width: 100%;
+    padding: 10px;
+    
+}
+
+.rosario button{
+    position: relative;
+    left: 25%;
+    margin-top: 20px;
+    height: 40px;
+    width: 150px;
+    background-color: red;
+    border: 1px solid red;
+    font-size: 1.2em;
+    color: white;
+}
+
+.rosario button:hover{
+    background-color: rgb(237, 221, 221);
+    transition: 2s;
+    cursor: pointer;
+}
+
+.Mauro{
+    background-color: white;
+    width: 91%;
+    margin: auto;
+}
+
+.Mauro h2{
+   margin-top: 500px;
+   text-align: center;
+   font-size: 2em;
+   padding: 20px;
+
+}
+
+.jesus{
+   border: 10px solid white;
+   box-shadow: 5px 5px 5px 5px rgb(232, 222, 222);
+   background-color: white;
+   width: 90%;
+   margin: auto;
+}
+
+.Avelino{
+    position: relative;
+    margin-top: 3800px;
+    margin-left: 69px;
+    background-color: black;
+    padding: 20px;
+    width: 83%;
+    height: 620px;
+    
+
+    
+}
+
+.Avelino img{
+     position: relative;
+     left: 39%;
+     width: 40px;
+     border-radius: 50%;
+}
+
+.Avelino h2{
+    margin-top: 50px;
+    text-align: left;
+    color: white;
+    color: white;
+}
+
+.Avelino p{
+    margin: 15px;
+    font-size: 1.1em;
+    width: 40%;
+    color: white;
+}
+
+
+.Gaspar >input{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    width: 95%;
+    height: 35px;
+    padding: 5px;
+    font-size: 1.2em;
+    width: 45%;
+    
+}
+
+.Gaspar h3{
+    position: absolute;
+    top: 16%;
+    left: 53%;
+    font-size: 1.7em;
+    
+}
+
+.Filomena h3{
+    position: absolute;
+    top: 37%;
+    left: 53%;
+    font-size: 1.7em;
+}
+
+#Gaspar button{
+    position: absolute;
+    top: 28%;
+    left: 13.6%;
+    height: 35px;
+    width: 130px;
+    background-color: crimson;
+    color: white;
+}
+
+.Filomena> dl{
+    position: absolute;
+    top: 42%;
+    left: 52%;
+    line-height: 1.2em;
+    color: white;
+    text-align: center;
+}
+
+
+}
+
+
+
+
+
+@media screen and (min-width:1000px) and (max-width:1200px){
+    .cardoso img{
+        position: absolute;
+        left: 59%;
+        top: 4%;
+        width: 280px;
+    }  
+
+    .Rosa p{
+        position: absolute;
+        top: 42%;
+        left: 5%;
+        font-size: 1.3em;
+        text-align: justify;
+        color: white;
+        width: 45%;
+    
+    }
+
+    .Rosa h2 {
+       position: absolute;
+       top: 13%;
+       left: 5%;
+       font-size: 3.3em;
+       color: white;
+       text-align: justify;
+       
+}
+   
+    .Rosa button{
+       position: absolute;
+       top: 74%;
+       left: 5%;
+       padding: 10px;
+       height: 40px;
+       font-size: 1.3em;
+       background-color: red;
+       color: white;
+       border: none;
+       border-radius: 7px;
+       cursor: pointer;
+}
+
+.amor{
+    position: absolute;
+    left: 40%;
+    
+    
+}
+
+.salvador{
+    position: relative;
+    background-color: rgb(227, 123, 227);
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding: 70px;
+    height: 650px;
+
+}
+
+  .nav-bar{
+    display: block;
+    
+}
+
+  .menu-icon{
+    display: none;
+}
+
+  header h1{
+    text-align: center;
+}
+
+
+.peixe{
+    width: 91%;
+    height: 350px;
+    
+}
+
+.centro h2{
+    position: absolute;
+    left: 50%;
+    top: 5%;
+    width: 40%;
+
+}
+
+.centro p{
+    position: absolute;
+    left: 50%;
+    top: 35%;
+    width: 40%;
+    font-size: 1em;
+}
+
+.silva{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+}
+
+.silva:hover{
+    background-color: rgb(128, 128, 234);
+    border: 1px solid rgb(213, 200, 200);
+    color: white;
+    transition: 2s;
+    cursor: pointer;
+}
+
+.Lu{
+    position: absolute;
+    top: 68%;
+    left: 65%;
+}
+
+.Lu:hover{
+    background-color: rgb(128, 128, 234);
+    border: 1px solid white;
+    transition: 2s;
+    cursor: pointer;
+}
+
+
+
+.Adonis img{
+    position: absolute;
+    top: 10%;
+    height: 250px;
+    right: 53%;
+    width: 45%;
+    
+}
+
+.Miria{
+    width: 91%;
+    margin: auto;
+    
+}
+
+.Miria h2{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-size: 1.7em;
+}
+
+.Maria{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 91%;
+    margin: auto;
+}
+
+.Maria div{
+    position: relative;
+    flex: 300px;
+    background-color: lightgrey;
+    height: 200px;
+}
+
+.Miria h3{
+    position: absolute;
+    top: 40%;
+    left: 28%;
+}
+
+.Miria p{
+    position: absolute;
+     top: 53%;
+     left: 10%;
+}
+
+#Nguina h3{
+    position: absolute;
+    left: 45%;
+}
+
+#Nguina p{
+    position: absolute;
+    left: 35%;
+    
+}
+
+.victor{
+    position: relative;
+    background-color: blueviolet;
+    box-shadow: 2px 2px 2px 2px white;
+    border-radius: 20px;
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    padding: 20px;
+    margin-top: 95px;
+}
+
+#Ana img{
+    position: absolute;
+    top: 20%;
+    right: 65%;
+    width: 30%;
+    
+}
+
+#salvador h2{
+    top: 26%;
+    left: 45%;
+
+}
+
+#salvador p{
+    top: 40%;
+    left: 45%;
+    float: left;
+    width: 55%;
+}
+
+
+#marcia{
+    position: absolute;
+    margin-top: 445px;
+    left: 115px;
+    height: 40px;
+    width: 130px;
+    background-color: white;
+}
+  
+
+#sara{
+   position: absolute;
+   margin-top: 445px;
+   left: 250px;
+   height: 40px;
+   width: 130px;
+   background-color: rgb(192, 149, 232);
+   
+}
+
+.Edi{
+    position: relative;
+    width: 91%;
+    margin: auto;
+}
+
+.mapa{
+    margin: 0px -20px 30px -20px;
+    padding: 25px;
+    padding-bottom: 5%;
+    position: relative;
+
+}
+
+.mapa>iframe{
+    width: 50%;
+
+}
+
+.Edi h2{
+    text-align: center;
+    padding: 15px;
+    margin-top: 60px;
+    font-size: 2em;
+    
+    
+}
+
+.formularios{
+    background-color: rgb(237, 221, 221);
+    position: absolute;
+    left: 50%;
+    margin-top: 1px;
+    width: 350px;
+    padding: 7px;
+}
+
+.campo{
+    padding: 10px;
+    
+}
+.campo> input{
+    height: 50px;
+    width: 100%;
+    padding: 20px;
+    font-size: 1.3em;
+}
+
+.campo> textarea{
+    text-align: center;
+    font-size: 1.3em;
+    width: 100%;
+    padding: 10px;
+    
+}
+
+.rosario button{
+    position: relative;
+    left: 25%;
+    margin-top: 20px;
+    height: 40px;
+    width: 150px;
+    background-color: red;
+    border: 1px solid red;
+    font-size: 1.2em;
+    color: white;
+}
+
+.rosario button:hover{
+    background-color: rgb(237, 221, 221);
+    transition: 2s;
+    cursor: pointer;
+}
+
+.Mauro{
+    background-color: white;
+    width: 91%;
+    margin: auto;
+}
+
+.Mauro h2{
+   margin-top: 450px;
+   text-align: center;
+   font-size: 2em;
+   padding: 30px;
+   
+}
+
+.jesus{
+   border: 10px solid white;
+   box-shadow: 5px 5px 5px 5px rgb(232, 222, 222);
+   background-color: white;
+   width: 90%;
+   margin: auto;
+}
+
+
+.Avelino{
+    position: absolute;
+    margin-top: 3600px;
+    margin-left: 100px;
+    background-color: black;
+    padding: 20px;
+    width: 83%;
+    height: 620px;
+    
+}
+
+.Avelino img{
+     position: relative;
+     left: 39%;
+     width: 40px;
+     border-radius: 50%;
+}
+
+.Avelino h2{
+    margin-top: 50px;
+    text-align: left;
+    color: white;
+    color: white;
+}
+
+.Avelino p{
+    margin: 15px;
+    font-size: 1.1em;
+    width: 40%;
+    color: white;
+}
+
+
+.Gaspar >input{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    width: 95%;
+    height: 35px;
+    padding: 5px;
+    font-size: 1.2em;
+    width: 45%;
+    
+}
+
+.Gaspar h3{
+    position: absolute;
+    top: 16%;
+    left: 53%;
+    font-size: 1.7em;
+    
+}
+
+.Filomena h3{
+    position: absolute;
+    top: 37%;
+    left: 52%;
+    font-size: 1.7em;
+    background-color: aquamarine;
+    
+}
+
+#Gaspar button{
+    position: absolute;
+    top: 28%;
+    left: 12.9%;
+    height: 35px;
+    width: 130px;
+    color: white;
+
+}
+
+.Filomena> dl{
+    position: absolute;
+    top: 42%;
+    left: 52%;
+    line-height: 1.2em;
+    color: white;
+    text-align: center;
+    
+
+}
+
+
+
+}
+
+
+@media screen and (min-width:1200px){
+    .cardoso img{
+        position: absolute;
+        left: 59%;
+        top: 4%;
+        width: 280px;
+    }  
+
+    .Rosa p{
+        position: absolute;
+        top: 42%;
+        left: 5%;
+        font-size: 1.3em;
+        text-align: justify;
+        color: white;
+        width: 45%;
+        
+    }
+
+    .Rosa h2 {
+       position: absolute;
+       top: 13%;
+       left: 5%;
+       font-size: 3.3em;
+       color: white;
+       text-align: justify;
+       
+}
+   
+    .Rosa button{
+       position: absolute;
+       top: 74%;
+       left: 5%;
+       padding: 10px;
+       height: 40px;
+       font-size: 1.3em;
+       background-color: red;
+       color: white;
+       border: none;
+       border-radius: 7px;
+       cursor: pointer;
+}
+
+.amor{
+    position: absolute;
+    left: 43%;
+}
+
+.salvador{
+    position: relative;
+    background-color: rgb(227, 123, 227);
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding: 70px;
+    height: 650px;
+
+}
+
+  .nav-bar{
+    display: block;
+    
+}
+
+  .menu-icon{
+    display: none;
+}
+
+  header h1{
+    text-align: center;
+}
+
+.peixe{
+    width: 91%;
+    height: 350px;
+    
+}
+
+.centro h2{
+    position: absolute;
+    left: 50%;
+    top: 5%;
+    width: 40%;
+
+}
+
+.centro p{
+    position: absolute;
+    left: 50%;
+    top: 35%;
+    width: 40%;
+    font-size: 1.2em;
+}
+
+.silva{
+    position: absolute;
+    top: 68%;
+    left: 50%;
+}
+
+.silva:hover{
+    background-color: rgb(128, 128, 234);
+    border: 1px solid rgb(213, 200, 200);
+    color: white;
+    transition: 2s;
+    cursor: pointer;
+}
+
+.Lu{
+    position: absolute;
+    top: 76%;
+    left: 63%;
+}
+
+.Lu:hover{
+    background-color: rgb(128, 128, 234);
+    border: 1px solid white;
+    transition: 2s;
+    cursor: pointer;
+}
+
+
+.Adonis img{
+    position: absolute;
+    top: 15%;
+    height: 297px;
+    right: 53%;
+    width: 40%;
+    
+}
+
+.Miria{
+    width: 91%;
+    margin: auto;
+    
+}
+
+.Miria h2{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-size: 1.7em;
+}
+
+.Maria{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 91%;
+    margin: auto;
+}
+
+.Maria div{
+    position: relative;
+    flex: 300px;
+    background-color: lightgrey;
+    height: 200px;
+}
+
+.Miria h3{
+    position: absolute;
+    top: 40%;
+    left: 30%;
+}
+
+.Miria p{
+    position: absolute;
+     top: 53%;
+     left: 10%;
+}
+
+#Nguina h3{
+    position: absolute;
+    left: 38%;
+}
+
+#Nguina p{
+    position: absolute;
+    left: 18%;
+}
+
+
+.victor{
+    position: relative;
+    background-color: blueviolet;
+    box-shadow: 2px 2px 2px 2px white;
+    border-radius: 20px;
+    width: 90%;
+    height: 120%;
+    margin: auto;
+    padding: 20px;
+    margin-top: 95px;
+}
+
+#Ana img{
+    position: absolute;
+    top: 10%;
+    right: 85%;
+    width: 37%;
+    
+}
+
+#salvador h2{
+    top: 30%;
+    left: 53%;
+
+}
+
+#salvador p{
+    top: 40%;
+    left: 53%;
+    float: left;
+    width: 46%;
+}
+
+
+#marcia{
+    position: absolute;
+    margin-top: 590px;
+    left: 230px;
+    height: 40px;
+    width: 130px;
+    background-color: white;
+}
+  
+
+#sara{
+   position: absolute;
+   margin-top: 590px;
+   left: 364px;
+   height: 40px;
+   width: 130px;
+   background-color: rgb(192, 149, 232);
+   
+}
+
+.Edi{
+    position: relative;
+    left: 7%;
+    width: 91%;
+    margin: auto;
+}
+
+.mapa{
+    margin: 0px -20px 30px -20px;
+    padding: 25px;
+    padding-bottom: 5%;
+    position: relative;
+
+}
+
+.mapa>iframe{
+    margin-top: 1%;
+    left: 5%;
+    width: 40%;
+
+}
+
+.Edi h2{
+    text-align: center;
+    margin-right: 950px;
+    padding: 5px;
+    margin-top: 100px;
+    font-size: 2em;
+}
+
+.formularios{
+    background-color: rgb(237, 221, 221);
+    position: absolute;
+    margin-top:1%;
+    left: 45%;
+    width: 409px;
+    padding: 7px;
+}
+
+.campo{
+    padding: 10px;
+    
+}
+.campo> input{
+    height: 50px;
+    width: 100%;
+    padding: 20px;
+    font-size: 1.3em;
+}
+
+.campo> textarea{
+    text-align: center;
+    font-size: 1.3em;
+    width: 100%;
+    padding: 10px;
+    
+}
+
+.rosario button{
+    position: relative;
+    left: 25%;
+    margin-top: 20px;
+    height: 40px;
+    width: 150px;
+    background-color: red;
+    border: 1px solid red;
+    font-size: 1.2em;
+    color: white;
+}
+
+.rosario button:hover{
+    background-color: rgb(237, 221, 221);
+    transition: 2s;
+    cursor: pointer;
+}
+
+.Mauro{
+    background-color: white;
+    width: 91%;
+    margin: auto;
+}
+
+.Mauro h2{
+   margin-top: 470px;
+   text-align: center;
+   font-size: 2em;
+   padding: 20px;
+}
+
+.jesus{
+   border: 10px solid white;
+   box-shadow: 5px 5px 5px 5px rgb(232, 222, 222);
+   background-color: white;
+   width: 90%;
+   margin: auto;
+}
+
+
+.Avelino{
+    position: absolute;
+    margin-top: 3300px;
+    margin-left: 120px;
+    background-color: black;
+    padding: 20px;
+    width: 83%;
+    height: 620px;
+}
+
+.Avelino img{
+     position: relative;
+     left: 39%;
+     width: 40px;
+     border-radius: 50%;
+}
+
+.Avelino h2{
+    margin-top: 50px;
+    text-align: left;
+    color: white;
+    color: white;
+}
+
+.Avelino p{
+    margin: 15px;
+    font-size: 1.1em;
+    width: 40%;
+    color: white;
+}
+
+
+.Gaspar >input{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    width: 95%;
+    height: 35px;
+    padding: 5px;
+    font-size: 1.2em;
+    width: 45%;
+    
+}
+
+.Gaspar h3{
+    position: absolute;
+    top: 16%;
+    left: 53%;
+    font-size: 1.7em;
+    
+}
+
+.Filomena h3{
+    position: absolute;
+    top: 37%;
+    left: 51.8%;
+    font-size: 1.7em;
+    
+}
+
+#Gaspar button{
+    position: absolute;
+    top: 28%;
+    left: 12.7%;
+    height: 35px;
+    width: 130px;
+    background-color: crimson;
+    color: white;
+}
+
+.Filomena> dl{
+    position: absolute;
+    top: 42%;
+    left: 52%;
+    line-height: 1.2em;
+    color: white;
+    text-align: center;
+}
+
+}
+
